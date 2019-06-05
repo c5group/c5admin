@@ -4,7 +4,7 @@
  * @version 1.0.0 beta
  */
 /*
-Plugin Name: Cleon Admin
+Plugin Name: C5Group Admin
 Plugin URI: http://cleon.vn
 Description: Chỉ chừng đó thôi
 Author: Lê Duy Quang
