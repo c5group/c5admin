@@ -3,5 +3,4 @@
 
 ### Changelog
 
-- 5.6.2019
- + First commit
+- 5.6.2019: First commit
